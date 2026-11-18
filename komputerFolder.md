@@ -6,5 +6,11 @@ Untuk Kategori Barang Untuk Komputer Seperti Ini.
 
 Pada Gambar Ini Folder Nya terbagi Menjadi 2 Tipe.
 - Produk
-- Kumpulan Produk
+- Kumpulan Produk `untuk Suatu Alat` Makanya Jadi Kumpulan
 > Yang di Dalamnya Ada Beberapa Produk.
+
+Yang Produk Adalah 
+- CASING HARDISK EXTERNAL HDD EXTERNAL CASE 2.5inc USB 2.0 HDD ENCLOSURE RX7
+- USB HUB
+
+`Selain Yang Diatas Semua Adalah Kumpulan Produk`
